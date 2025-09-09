@@ -1,0 +1,38 @@
+###############################################
+###############################################
+######### T N T E C     A  U  D  I  O #########
+###############################################
+###############################################
+
+Support: gabrielftrentini@gmail.com
+
+
+✅ Python Prerequisites (Libraries/Packages)
+
+ numpy
+
+ sounddevice
+
+ tkinter (comes with Python, may need separate installation on Linux)
+
+ scipy
+
+ matplotlib (optional, required for oscilloscope and spectrogram features)
+
+💻 Pip Install Command
+
+For required packages:
+
+pip install numpy sounddevice scipy
+
+
+For optional matplotlib support:
+
+pip install matplotlib
+
+
+Linux users: If tkinter is missing:
+
+Ubuntu/Debian: sudo apt install python3-tk
+
+Fedora: sudo dnf install python3-tkinter
